@@ -1,1 +1,1 @@
-module sso
+module protos
